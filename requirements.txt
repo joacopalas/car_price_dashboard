@@ -2,3 +2,4 @@ pandas
 dash
 plotly
 dash_mantine_components
+gunicorn
